@@ -1,9 +1,9 @@
 
 import Link from 'next/link';
-export default function product() {
+export default function Mobile() {
     return (
       <div>
-        <h1> product page</h1>
+        <h1> Mobile page</h1>
         <ul>
           <li><Link href="/"><a className=''>Home</a></Link></li>
           <li><Link href="/about"><a>About</a></Link></li>
@@ -16,7 +16,7 @@ export default function product() {
      
 
      
-  
+   
           
        
   
